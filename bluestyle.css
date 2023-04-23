@@ -10,3 +10,8 @@ margin-left: 20px;
 h1:hover{
     background-color: red;
 }
+
+div{
+    display: flex;
+    flex-direction: column;
+    }
