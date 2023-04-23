@@ -7,5 +7,8 @@ This repository is built step by step in the tutorial.
 
 #Note:::::::
 
-A conflict arises when two separate branches have made edits to the same line in a file,
+1. A conflict arises when two separate branches have made edits to the same line in a file,
 or when a file has been deleted in one branch but edited in the other.
+
+2. Git can merge the changes automatically only if the commits
+are on different lines or branches.
